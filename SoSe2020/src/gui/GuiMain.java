@@ -7,7 +7,8 @@ public class GuiMain
 	{
 		//new AddElementsWindow();
 		//new EventsWindow();
-		 new MouseListenerLesson(4,3);
+		// new MouseListenerLesson(4,3);
+		new ButtonGroupDemo();
 		
 	}
 
